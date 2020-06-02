@@ -1,0 +1,1 @@
+HNG internship task 0: The task is to create a git repository and post it on the HNG board.
